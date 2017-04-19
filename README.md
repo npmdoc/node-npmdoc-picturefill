@@ -1,9 +1,14 @@
-# api documentation for  [picturefill (v3.0.2)](https://scottjehl.github.io/picturefill/)  [![npm package](https://img.shields.io/npm/v/npmdoc-picturefill.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-picturefill) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-picturefill.svg)](https://travis-ci.org/npmdoc/node-npmdoc-picturefill)
+# npmdoc-picturefill
+
+#### api documentation for  [picturefill (v3.0.2)](https://scottjehl.github.io/picturefill/)  [![npm package](https://img.shields.io/npm/v/npmdoc-picturefill.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-picturefill) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-picturefill.svg)](https://travis-ci.org/npmdoc/node-npmdoc-picturefill)
+
 #### A responsive image polyfill.
 
-[![NPM](https://nodei.co/npm/picturefill.png?downloads=true)](https://www.npmjs.com/package/picturefill)
+[![NPM](https://nodei.co/npm/picturefill.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/picturefill)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-picturefill/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-picturefill_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-picturefill/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-picturefill/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-picturefill/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-picturefill/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-picturefill/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-picturefill/build/screenCapture.npmPackageListing.svg)
 
@@ -17,8 +22,7 @@
 
 {
     "author": {
-        "name": "Scott Jehl",
-        "email": "scottjehl@gmail.com"
+        "name": "Scott Jehl"
     },
     "bugs": {
         "url": "https://github.com/scottjehl/picturefill/issues"
@@ -61,17 +65,14 @@
     "main": "./dist/picturefill",
     "maintainers": [
         {
-            "name": "wilto",
-            "email": "mat@matmarquis.com"
+            "name": "wilto"
         },
         {
-            "name": "scottjehl",
-            "email": "scott@filamentgroup.com"
+            "name": "scottjehl"
         }
     ],
     "name": "picturefill",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+ssh://git@github.com/scottjehl/picturefill.git"
@@ -82,16 +83,6 @@
     "version": "3.0.2"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module picturefill](#apidoc.module.picturefill)
-
-
-
-# <a name="apidoc.module.picturefill"></a>[module picturefill](#apidoc.module.picturefill)
 
 
 
